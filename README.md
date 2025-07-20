@@ -1,3 +1,19 @@
-# Work Term Project (WTP) - Toxic Comment Classification
+# De-toxifAI: Toxic Comment Classification Web App
 
-Our project is based on Toxic Comment classification and the "De-toxifAI" app represents our work in the form of a fully functioning web app deployed globally. This app assists users in identifying and categorizing toxic comments. This guthub repository includes the following deliverables: datasets used, all the code for the project (includes code for gradio app-for both local and global deployment), machine learning models trained, final report and presentation slides with recording.
+Welcome to **De-toxifAI**—an AI-powered web application that detects and categorizes toxic comments, making online communities safer and more inclusive.
+
+---
+
+## 🌟 Project Overview
+
+De-toxifAI is developed as part of the Work Term Project (WTP) at George Brown College, Toronto, focusing on **Toxic Comment Classification**. This project demonstrates our expertise in machine learning and responsible AI, providing a robust tool for identifying toxic language on the web.
+
+---
+
+## 🚀 Features
+
+- **Real-time Toxicity Detection:** Instantly classify comments as toxic, severe toxic, obscene, threat, insult, or identity hate.
+- **User-Friendly Web Interface:** Accessible through Gradio, available for both local and global use.
+- **Modern ML Models:** Uses advanced NLP techniques and pre-trained models for high accuracy.
+- **Educational Visualizations:** Helps users understand toxicity scores and categories.
+- **Fully Open Source:** All datasets, code, models, and documentation included.
